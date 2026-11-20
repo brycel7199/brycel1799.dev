@@ -6,4 +6,4 @@ document.querySelectorAll(".owner-name").forEach((e) => {
 });
 
 document.querySelector("#github").href = "http://github.com/" + userName;
-document.querySelector("#fork").href = "http://github.com/" + userName + "/" + userName + ".github.io";
+document.querySelector("#fork").href = "http://github.com/" + userName + "/" + userName + ".dev";
